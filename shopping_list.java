@@ -1,7 +1,3 @@
-name:gregorry jake gocela
-program title:Shopping list
-The program lets you type up to 5 items you want to buy, shows you the list, tells you how many items you added, and lets you search to see if an item is on your list.
-sample input
 import java.util.ArrayList; import java.util.Scanner;
 public class shopping_list {
 public static void main(String[] args) {
@@ -43,22 +39,4 @@ public static void main(String[] args) {
 
     scanner.close();
 }
-} 
-output
-Enter up to 5 items to buy:
-Item 1: milk
-Item 2: eggs
-Item 3: rice
-Item 4: soap
-Item 5: coffee
-
-Your shopping list:
-- milk
-- eggs
-- rice
-- soap
-- coffee
-You entered 5 items.
-
-Search for an item: rice
-rice is in your shopping list!
+}
