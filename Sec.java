@@ -1,4 +1,4 @@
-public class ShapeAreaCalculator {
+public class Sec {
     	public int calculateArea(int side){
         		return side * side;
                 	}
