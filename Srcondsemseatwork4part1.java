@@ -1,4 +1,4 @@
-public class PaymentProcessor {
+public class Srcondsemseatwork4part1{
 
     // Process payment with two arguments: amount and currency
     public void processPayment(double amount, String currency) {

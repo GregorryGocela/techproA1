@@ -1,4 +1,4 @@
-abstract class BankAccount {
+abstract class Secondsemseatwork5 {
     private String accountNumber;
     private double balance;
     
